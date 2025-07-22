@@ -22,13 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=Francisco-Campos-S&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```mermaid
-graph
-ProjectContainer --> BootScene
-ProjectContainer --> LobbyScene
-ProjectContainer --> GameScene
-ProjectContainer --> GameModeTwoScene
-
 graph TD
   A[📦 CampusCodeUNED]
 
@@ -56,4 +49,13 @@ graph TD
   E --> E2[📄 recursos_informatica.xlsx]
 
   A --> F[README.md]
+
+```mermaid
+graph
+ProjectContainer --> BootScene
+ProjectContainer --> LobbyScene
+ProjectContainer --> GameScene
+ProjectContainer --> GameModeTwoScene
+
+
 
