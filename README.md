@@ -28,3 +28,32 @@ ProjectContainer --> BootScene
 ProjectContainer --> LobbyScene
 ProjectContainer --> GameScene
 ProjectContainer --> GameModeTwoScene
+
+graph TD
+  A[📦 CampusCodeUNED]
+
+  A --> B[📁 Diplomado]
+  B --> B1[📁 Colaborador_1]
+  B1 --> B11[📁 Introduccion_Informatica]
+  B1 --> B12[📁 Redes_Basicas]
+  B --> B2[📁 Colaborador_2]
+  B2 --> B21[📁 Introduccion_Informatica]
+  B --> B3[README.md]
+
+  A --> C[📁 Bachillerato]
+  C --> C1[📁 Colaborador_1]
+  C1 --> C11[📁 Estructuras_Datos]
+  C --> C2[📁 Colaborador_2]
+  C2 --> C21[📁 Programacion_Avanzada]
+
+  A --> D[📁 Libros]
+  D --> D1[📄 libro_redes.pdf]
+  D --> D2[📄 estructuras_datos_basicas.pdf]
+  D --> D3[README.md]
+
+  A --> E[📁 Materiales]
+  E --> E1[📄 guia_programacion.md]
+  E --> E2[📄 recursos_informatica.xlsx]
+
+  A --> F[README.md]
+
