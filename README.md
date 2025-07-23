@@ -1,61 +1,21 @@
 # 💫 About Me:
-<table><br>  <tr><br>    <td><br>      <h1>👋 Hi! I'm Francisco Campos Sandi</h1><br>      <p>🎓 I'm a <strong>Computer Engineering</strong> student passionate about software development, automation, and artificial intelligence applied to education.</p><br>      <p>🧠 Founder of <a href="https://www.facebook.com/profile.php?id=61563914024424"><strong>Profe Artificial</strong></a>, an educational project promoting the use of AI tools in classrooms.</p><br>    </td><br>    <td><br>      <img src="https://github.com/user-attachments/assets/336b3c2d-64a3-498b-9ee9-9091f44b940c" width="160" alt="Code Coding GIF by EscuelaDevRock" /><br>    </td><br>  </tr><br></table><br><br><br><br>---<br>## 💡 About Me<br><br>I'm passionate about creating innovative software solutions that enhance learning experiences using AI. I enjoy automating workflows and continuously learning new technologies to improve my skills.<br><br>---
+I'm passionate about creating innovative software solutions that enhance learning experiences using AI. I enjoy automating workflows and continuously learning new technologies to improve my skills.<br>
 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Directus](https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Francisco-Campos-S&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Francisco-Campos-S&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Francisco-Campos-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Francisco-Campos-S&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Francisco-Campos-S&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-graph TD
-  A[📦 CampusCodeUNED]
-
-  A --> B[📁 Diplomado]
-  B --> B1[📁 Colaborador_1]
-  B1 --> B11[📁 Introduccion_Informatica]
-  B1 --> B12[📁 Redes_Basicas]
-  B --> B2[📁 Colaborador_2]
-  B2 --> B21[📁 Introduccion_Informatica]
-  B --> B3[README.md]
-
-  A --> C[📁 Bachillerato]
-  C --> C1[📁 Colaborador_1]
-  C1 --> C11[📁 Estructuras_Datos]
-  C --> C2[📁 Colaborador_2]
-  C2 --> C21[📁 Programacion_Avanzada]
-
-  A --> D[📁 Libros]
-  D --> D1[📄 libro_redes.pdf]
-  D --> D2[📄 estructuras_datos_basicas.pdf]
-  D --> D3[README.md]
-
-  A --> E[📁 Materiales]
-  E --> E1[📄 guia_programacion.md]
-  E --> E2[📄 recursos_informatica.xlsx]
-
-  A --> F[README.md]
-
-```mermaid
-graph
-ProjectContainer --> BootScene
-ProjectContainer --> LobbyScene
-ProjectContainer --> GameScene
-ProjectContainer --> GameModeTwoScene
 
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
